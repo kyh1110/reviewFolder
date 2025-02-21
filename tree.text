@@ -1,0 +1,48 @@
+📦src
+ ┣ 📂assets
+ ┃ ┣ 📂fonts
+ ┃ ┣ 📂guide
+ ┣ 📂commons
+ ┃ ┣ 📂assets
+ ┣ 📂components
+ ┃ ┣ 📂Button
+ ┃ ┃ ┣ 📜ButtonContainer.tsx
+ ┃ ┃ ┣ 📜ButtonPresenter.tsx
+ ┃ ┃ ┣ 📜index.tsx
+ ┃ ┃ ┗ 📜types.ts
+ ┣ 📂constants
+ ┃ ┣ 📜Color.ts
+ ┣ 📂hook
+ ┃ ┣ 📜APIkit.tsx
+ ┃ ┗ 📜types.ts
+ ┣ 📂navigation
+ ┃ ┣ 📂Mypage
+ ┃ ┃ ┣ 📜index.tsx
+ ┃ ┃ ┗ 📜types.ts
+ ┃ ┣ 📜index.tsx
+ ┃ ┗ 📜types.ts
+ ┣ 📂screens
+ ┃ ┣ 📂Main
+ ┃ ┃ ┣ 📂Home
+ ┃ ┃ ┃ ┣ 📜HomeContainer.tsx
+ ┃ ┃ ┃ ┣ 📜HomePresenter.tsx
+ ┃ ┃ ┃ ┣ 📜index.tsx
+ ┃ ┃ ┃ ┗ 📜types.ts
+ ┃ ┃ ┣ 📂SignIn
+ ┃ ┃ ┃ ┣ 📜SignInContainer.tsx
+ ┃ ┃ ┃ ┣ 📜SignInPresenter.tsx
+ ┃ ┃ ┃ ┣ 📜index.tsx
+ ┃ ┃ ┃ ┗ 📜types.ts
+ ┃ ┣ 📂Mypage
+ ┃ ┃ ┣ 📂Privacy
+ ┃ ┃ ┃ ┣ 📜PrivacyContainer.tsx
+ ┃ ┃ ┃ ┣ 📜PrivacyData.tsx
+ ┃ ┃ ┃ ┣ 📜PrivacyPresenter.tsx
+ ┃ ┃ ┃ ┣ 📜index.tsx
+ ┃ ┃ ┃ ┗ 📜types.ts
+ ┃ ┃ ┣ 📂Profile
+ ┃ ┃ ┃ ┣ 📜ProfileContainer.tsx
+ ┃ ┃ ┃ ┣ 📜ProfilePresenter.tsx
+ ┃ ┃ ┃ ┣ 📜index.tsx
+ ┃ ┃ ┃ ┗ 📜types.ts
+ ┗ 📜declarations.d.ts
